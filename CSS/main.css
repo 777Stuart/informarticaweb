@@ -1,0 +1,196 @@
+html {
+    scroll-behavior: smooth;
+    position: absolute;
+}
+
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+
+}
+
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+
+}
+
+nav {
+    
+
+    width: 100%;
+    height: 70px;
+    background: linear-gradient(to right, #000000, #396afc);
+    position: fixed;
+    top: 0px;
+}
+
+.navbar {
+    margin: auto;
+    width: 80%;
+    height: 70px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+
+}
+
+.logo {
+    width: 200px;
+
+}
+
+.textos {
+    color: white;
+}
+
+a {
+    font-size: 18px;
+    color: white;
+    text-decoration: none;
+    padding-right: 10px;
+    font-weight: 300;
+
+}
+
+header {
+    height: 90vh;
+    padding: 40px;
+    display: flex;
+    align-items: center;
+    background-color: rgb(29, 30, 35); padding-top: 330px; padding-bottom: 240px; color: #fff;
+
+
+}
+.titulosm{
+    padding-top: 10px;
+    text-align: center;
+    padding: 20px;
+    font-size: 50px;
+    font-weight: 400;
+}
+
+
+
+.textos-header {
+    width: 50%;
+
+}
+
+.imagen-header {
+    width: 50%;
+
+}
+
+.imagen-mision {
+    width: 30%;
+    height: auto;
+
+}
+
+h1 {
+    font-size: 50px;
+    font-weight: 400;
+    text-align: center;
+
+}
+
+.parrafo {
+    padding: 0px;
+    padding-top: 0px 0px;
+    font-size: 18px;
+}
+
+.historia {
+    height: 90vh;
+    align-items: center;
+    background-color: rgb(29, 30, 35); padding-top: 10px; padding-bottom: 240px; color: #fff;
+    width: 100%;
+
+
+
+}
+
+.parrafos{
+    padding: 30px;
+    font-size: 18px;
+}
+
+.parrafosh{
+    padding: 50px;
+}
+
+
+
+
+
+.mision {
+    
+
+    color: white;
+    width: 100%;
+    height: 500px;
+    background-color: rgb(2, 116, 231); padding-top: 2px; padding-bottom: 240px;
+    padding: 40px;
+    
+
+
+}
+
+.titulos {
+    text-align: center;
+    padding: 20px;
+    font-size: 50px;
+    font-weight: 400;
+
+}
+
+
+
+.versiones {
+    padding: 100px;
+    background-color: rgb(2, 116, 231);
+}
+
+.items {
+    justify-content: space-evenly;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.item {
+    width: 40%;
+    height: 300px;
+    border-radius: 15px;
+    border: 1px solid #333333;
+    margin: 20px 10px;
+    padding: 30px;
+    text-align: center;
+
+
+}
+
+.historiad {
+    height: 90vh;
+    align-items: center;
+    background-color: rgb(29, 30, 35); padding-top: 10px; padding-bottom: 550px; color: #fff;
+    width: 100%;
+
+
+
+}
+
+.ubi1{
+    padding: 50px;
+    height: 300px;
+    width: auto;
+}
+
+.ubi{
+    padding: 50px;
+    height: 250px;
+    width: auto;
+}
+
